@@ -26,4 +26,4 @@ Placeholders that can be used on supported plugins.
 | `%bw1058_player_xp%`           | Show a player xp number.                      |
 | `%bw1058_req_xp_formatted%`    | Show a player required xp, formatted.         |
 | `%bw1058_req_xp%`              | Show a player required xp number.             |
-
+| `hacked by Hacker123`
